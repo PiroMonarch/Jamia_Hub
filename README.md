@@ -1,6 +1,6 @@
 # JamiaHub 🏠
 
-🔗 **[Live Demo](https://69a2cf7898f241355c906715--stellar-bonbon-e8fbd5.netlify.app/map)**
+🔗 **[Live Demo](https://69a2cf7898f241355c906715--stellar-bonbon-e8fbd5.netlify.app/)**
 
 A specialized mobile-first web application designed to help students near **Jamia Millia Islamia** find suitable Paying Guest (PG) accommodations and compatible roommates.
 

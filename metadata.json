@@ -1,0 +1,5 @@
+{
+  "name": "JamiaHub",
+  "description": "Find roommates and PGs near Jamia Millia Islamia.",
+  "requestFramePermissions": ["geolocation"]
+}

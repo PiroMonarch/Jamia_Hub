@@ -1,5 +1,7 @@
 # JamiaHub 🏠
 
+🔗 **[Live Demo](https://69a2cf7898f241355c906715--stellar-bonbon-e8fbd5.netlify.app/map)**
+
 A specialized mobile-first web application designed to help students near **Jamia Millia Islamia** find suitable Paying Guest (PG) accommodations and compatible roommates.
 
 ## 🎯 Problem We Solve
@@ -66,9 +68,6 @@ JamiaHub addresses the common challenge students face: finding safe, affordable 
 - **Better SQLite3**: Super-fast, local file-based database (no heavy setup needed)
 - **WebSockets**: Real-time features (chat, live updates, notifications)
 
-### AI Power
-- **Google Gemini API**: Powering smart features like roommate matching and recommendations
-
 ### Stack Summary
 Modern, fast, and powerful: **React 19 + Vite + Tailwind CSS v4 + SQLite**
 
@@ -93,18 +92,12 @@ Modern, fast, and powerful: **React 19 + Vite + Tailwind CSS v4 + SQLite**
    npm install
    ```
 
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env.local
-   ```
-   Add your `GEMINI_API_KEY` to `.env.local`
-
-4. **Run the development server**
+3. **Run the development server**
    ```bash
    npm run dev
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Navigate to `http://localhost:5173` (or the URL shown in your terminal)
 
 ---
@@ -132,7 +125,6 @@ JamiaHub/
 
 ## 🎨 Features Roadmap
 
-- [ ] Advanced AI-powered roommate matching
 - [ ] Virtual property tours
 - [ ] Payment gateway integration
 - [ ] Review and rating system
